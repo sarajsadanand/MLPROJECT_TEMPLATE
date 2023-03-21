@@ -9,7 +9,7 @@
 
 ### To create a new environment
 conda create -p ./venv python=3.8 -y # -p option specifies the path where the new environment should be created
-
+Playlist: https://youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG 
 
 ### setup.py and requirements.txt file
 - This template can be used with any project, follow below steps
